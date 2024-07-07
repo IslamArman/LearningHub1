@@ -4,3 +4,4 @@ watchdog==3.0
 openai==0.27
 python-decouple==3.8
 langchain
+langchain_openai
